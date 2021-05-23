@@ -1,0 +1,49 @@
+#ID{
+    margin:auto;
+    margin-top: 100px;
+    padding:10px 20px 30px 20px;
+    color:white;
+    background-image: url("./image/futuristic-background-design_23-2148503793.jpg") ;
+     background-repeat: no-repeat;
+     height: 300px;
+     width: 580px;
+     text-align: center;
+     background-color: blueviolet;
+    
+}
+#w{
+    color: darkgoldenrod;
+}
+body{
+    background-color:rgb(202, 212, 54);
+    font-size: 30px;
+}
+#sub{
+    color: rgb(89, 0, 255);
+}
+#result{
+    color: rgb(250, 16, 16);
+    background-color: rgb(60, 12, 148);
+}
+table{
+    text-align:center;
+    padding-left: 80px;
+    
+}#st{
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(./image/images.jpg);
+    background-repeat: no-repeat;
+    color: burlywood;
+}
+#stand{
+    font-size: 25px;
+}
+   
+#cel{background-image: url(./image/images.jpg);
+    background-repeat: no-repeat;
+    color: burlywood;
+    font-size: 20px;
+}
